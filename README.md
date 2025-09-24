@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and c# and c++
 - 💞️ I’m looking to collaborate on robotics and gaming
 - 📫 How to reach me thebradshawboys12@gmail.com or cbradshaw@commschool.org
-- 😄 Pronouns: he/him(if you know me personally, this is kinda obvious though)
+- 😄 Pronouns: help/me(its all zora's fault)
 - ⚡ Fun fact: I have been fencing for 12.5 years
 
 <!---
