@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tangledsnakes24
 - 👀 I’m interested in coding, fencing, and robotics
-- 🌱 I’m currently learning python, racket and C++
+- 🌱 I’m currently learning racket
 - 💞️ I’m looking to collaborate on robotics and fencing projects
 - 📫 How to reach me: you found my github profile, this is it
 - 😄 Pronouns: 
